@@ -2,12 +2,14 @@
 Contributors: webmatpro
 Donate link: https://www.paypal.me/webmatpro
 Tags: elementor, elementor addons, fep
-Requires at least: 4.6
-Tested up to: 6.5
+Requires at least: 4.7
+Tested up to: 6.7
 Requires PHP: 5.6
-Stable tag: 2.4.0
+Stable tag: 2.4.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+The plugin "Flexible Elementor Panel" makes the Elementor editor panel flexible, draggable, resizable, folding and more opportunities.
 
 == Description ==
 
@@ -62,8 +64,14 @@ You can reset position / size in the settings FEP, side editor Elementor and in 
 
 == Changelog ==
 
+= 2.4.1 =
+* Add: Compatibility with Wordpress 6.7
+* Add: Compatibility tag with Elementor 3.24.7
+* Add: Compatibility tag with Elementor Pro 3.24.4
+* Localization: Update POT/PO language
+
 = 2.4.0 =
-* Add: Compatibility with Wordpress 6.6
+* Add: Compatibility with Wordpress 6.5
 * Add: Compatibility tag with Elementor 3.20
 * Add: Compatibility tag with Elementor Pro 3.20
 * Fix: Issue with the collapse vertical function
